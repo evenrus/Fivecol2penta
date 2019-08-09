@@ -1,5 +1,7 @@
 # Fivecol2penta
 
+It takes a 5 column file as input, writes the 1) penta-nucleotide context and transsribed and unstranscibed strand status of mutation 2) Generates bar plots for the same 3) Runs a fishers test to check for TSB
+
 
  row_id  sample T_MM1 U_MM1    T    U  pvalue       q
    
